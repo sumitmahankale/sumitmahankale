@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A developer from India</h3>
-<img align ="right"  alt="coding" width=400 src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
+<img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
-<p align="left"><a href="https://www.linkedin.com/in/sumitmahankale/(https://www.linkedin.com/in/sumit-mahankale-3885aa277/)" target="blank"> <img src="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" style=flat" alt="itspiyush3451" /> </p>
+<p align="left"><a href="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="flat" alt="sumitmahankale" /> </a></p>
 
 <p align="left"> <a href="https://twitter.com/piyush3451" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmahankale?logo=twitter&style=for-the-badge" alt="sumit" /></a> </p>
 
-
-    
 - 📫 How to reach me **sumitmahankale7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/piyush3451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush3451" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-yadav-609500234(https://www.linkedin.com/in/sumit-mahankale-3885aa277/)(https://www.linkedin.com/in/sumit-mahankale-3885aa277/)/?originalsubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
