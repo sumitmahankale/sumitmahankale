@@ -4,13 +4,13 @@
 
 <p align="left"><a href="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="flat" alt="sumitmahankale" /> </a></p>
 
-<p align="left"> <a href="https://twitter.com/piyush3451" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmahankale?logo=twitter&style=for-the-badge" alt="sumit" /></a> </p>
+<p align="left"> <a href="https://x.com/Sumitmahankale" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmahankale?logo=twitter&style=for-the-badge" alt="sumit" /></a> </p>
 
 - 📫 How to reach me **sumitmahankale7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/piyush3451" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="piyush3451" height="30" width="40" /></a>
+<a href="https://x.com/Sumitmahankale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sumitmahankale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
