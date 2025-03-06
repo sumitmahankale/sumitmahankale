@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
+<h1 align="center">Hi 👋, I'm Sumit</h1>
 <h3 align="center">A developer from India</h3>
 <img align ="right"  alt="coding" width=400 src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
@@ -8,7 +8,7 @@
 
 
     
-- 📫 How to reach me **piyus3451@gmail.com**
+- 📫 How to reach me **sumitmahankale7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
