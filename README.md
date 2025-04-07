@@ -1,6 +1,6 @@
 # <div align="center">Hi 👋, I'm Sumit</div>
 <div align="center">A developer from India</div>
-
+<br>
 <img align="right" alt="coding" width=400 src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXg0d245cGltb3lycGZvZjF5cTRyaW5pM2tiam1sZ3p3azVzeDQ3OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 
 <p align="left"><a href="https://www.linkedin.com/in/sumit-mahankale-3885aa277/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sumitmahankale" /> </a></p>
