@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://x.com/Sumitmahankale" target="blank"><img src="https://img.shields.io/twitter/follow/sumitmahankale?logo=twitter&style=for-the-badge" alt="sumit" /></a> </p>
 
-- 📫 How to reach me **sumitmahankale7@gmail.com**
+- 📫 How to reach me **sumitmahankale7777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
